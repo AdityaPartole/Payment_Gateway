@@ -1,2 +1,11 @@
-# Payment_Gateway
-A web app to demonstrate integration of Razorpay payment gateway with Nodejs.
+## A web app demonstrating integration of Razorpay Payment Gateway using Nodejs, Express, MongoDB, Ejs.
+## Project Setup
+``` bash
+# install your dependencies
+npm install
+
+# create .env from .env.example and enter your credentials
+
+# serve app
+npm start
+```
